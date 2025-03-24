@@ -6,4 +6,5 @@ one more line
 
 making a change in my personal account
 
-i am changing the same line inmy personal account that has already been updated in the main accoutn 
+this is a change from the main repo
+
